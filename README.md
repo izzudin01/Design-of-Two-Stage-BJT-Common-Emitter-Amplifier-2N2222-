@@ -1,0 +1,1 @@
+# Design-of-Two-Stage-BJT-Common-Emitter-Amplifier-2N2222-
